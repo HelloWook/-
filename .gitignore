@@ -1,4 +1,3 @@
 # 모듈 제외 
-js/module.js
-js/email.js
-js/email2.js
+js/email_bej.js
+js/email_wook.js
